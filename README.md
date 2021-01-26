@@ -71,9 +71,20 @@ Dependências utilizadas para o desenvolvimento.
 
 ### Pages
 
+#### /
+
 ![logIn](https://user-images.githubusercontent.com/38146739/105856516-16781b00-5fc8-11eb-8c55-fd85b6967380.png)
+
+#### /signUp
+
 ![signUp](https://user-images.githubusercontent.com/38146739/105856817-62c35b00-5fc8-11eb-9032-8d499e3275f7.png)
+
+#### /products
+
 ![products](https://user-images.githubusercontent.com/38146739/105856839-6bb42c80-5fc8-11eb-9e0e-343a23630461.png)
+
+#### /products/register
+
 ![register](https://user-images.githubusercontent.com/38146739/105856867-7373d100-5fc8-11eb-9873-344e5b09a358.png)
 
 ### Databases knex - Sqlite3
