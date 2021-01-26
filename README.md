@@ -1,14 +1,14 @@
 # Lukstore
 
-Project developed with the purpose and curiosity to know more about the query builder knex.js and improve knowledge in global state control using redux. :smile: :rocket:
+Projeto desenvolvido com a finalidade e curiosidade em saber mais sobre o query builder knex.js e aprimorar conhecimento em controle de estados globais usando redux. :smile: :rocket:
 
 ### Installation
 
 Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Instalando as dependências e dependências de desenvolvimento para executar o sistema
 
-Executing back-end application
+Executando aplicação back-end
 
 ```sh
 $ cd lukstore
@@ -17,7 +17,7 @@ $ yarn
 $ yarn dev
 ```
 
-Executing front-end application
+Executando aplicação front-end
 
 ```sh
 $ cd lukstore
